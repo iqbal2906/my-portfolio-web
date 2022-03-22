@@ -32,6 +32,10 @@
       padding: 1rem 2rem;
       border-radius: 0.85rem;
     }
+
+    @media screen and (max-width: 900px) {
+      margin: 0.3rem;
+    }
   }
 
   .item-active {
@@ -69,9 +73,13 @@
       border-radius: 0.75rem;
     }
 
+    @media screen and (max-width: 900px) {
+      margin: 0.4rem;
+    }
+
     @media screen and (max-width: 300px) {
       width: 100%;
-      margin: rem;
+      margin: 0.25rem;
     }
   }
 }

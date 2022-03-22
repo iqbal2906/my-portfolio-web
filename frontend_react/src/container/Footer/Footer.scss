@@ -50,6 +50,10 @@
     @media screen and (max-width: 450px) {
       width: 100%;
     }
+
+    @media screen and (max-width: 900px) {
+      margin: 0.3rem;
+    }
   }
 
   @media screen and (max-width: 768px) {
